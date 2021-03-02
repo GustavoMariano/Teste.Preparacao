@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcula.Salario.Com.Extra", "Calcula.Salario.Com.Extra\Calcula.Salario.Com.Extra.csproj", "{849DF7B7-328D-42B1-84C3-EDF3345DFE56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principais.Operacoes.Aritmeticas", "Principais.Operacoes.Aritmeticas\Principais.Operacoes.Aritmeticas.csproj", "{214A87FE-37E5-4102-B276-691D87731D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{9E0E9B97-D30F-42FD-8FBE-156CED86E9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{849DF7B7-328D-42B1-84C3-EDF3345DFE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{849DF7B7-328D-42B1-84C3-EDF3345DFE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{849DF7B7-328D-42B1-84C3-EDF3345DFE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214A87FE-37E5-4102-B276-691D87731D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214A87FE-37E5-4102-B276-691D87731D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214A87FE-37E5-4102-B276-691D87731D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214A87FE-37E5-4102-B276-691D87731D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0E9B97-D30F-42FD-8FBE-156CED86E9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0E9B97-D30F-42FD-8FBE-156CED86E9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0E9B97-D30F-42FD-8FBE-156CED86E9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0E9B97-D30F-42FD-8FBE-156CED86E9D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
